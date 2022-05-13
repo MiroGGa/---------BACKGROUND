@@ -29,7 +29,7 @@
     else{
         $_SESSION['name_error'] = "";
         $_SESSION['email_error'] = "";
-        $_SESSION['password_error'] = "";
+        $_SESSION['password_error'] = ""; 
     }
 
 
